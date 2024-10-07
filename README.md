@@ -23,10 +23,14 @@ This project is a coding exercise implementing a Cinema Ticket Booking Service i
 ## Installation
 
 1. Clone the repository to your local machine:
+
 ```bash
-   git clone https://github.com/ganesheie/dwp.git ```
+   git clone https://github.com/ganesheie/dwp.git
+```
 2.  Navigate into the project directory:
-   ```bash cd cinema-ticket-service
+   ``` bash
+      cd cinema-ticket-service
+  ``` 
 4. Run the Maven build to install dependencies and compile the project
    ```bash mvn clean install
 5.Run Unit Tests
