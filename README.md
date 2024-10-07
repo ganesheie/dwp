@@ -32,7 +32,10 @@ This project is a coding exercise implementing a Cinema Ticket Booking Service i
       cd cinema-ticket-service
   ``` 
 4. Run the Maven build to install dependencies and compile the project
-   ```bash mvn clean install
+   ```bash
+   mvn clean install
+   ```
 5.Run Unit Tests
-  ```bash mvn test
-  
+  ```bash
+     mvn test
+ ``` 
